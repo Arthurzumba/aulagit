@@ -1,0 +1,4 @@
+oq estudar:
+Herança;
+get e set;
+classe abstrata;
